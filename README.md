@@ -9,5 +9,5 @@ Bioler Plate uses Class-based Object Oriented Programming.
 ```
 $ npm install
 ```
-Run that above command to install dependencies and get started. Also remember to add your own AtlasUrl to your .env file.
+Run that above command to install dependencies and get started. Also remember to the database variables specified in config/config.js to your to your .env file.
 Then build your project from there.
